@@ -1,6 +1,3 @@
-# Convert block into a snake
-# Draw apple at random locations
-
 import pygame
 from pygame.locals import *
 import time

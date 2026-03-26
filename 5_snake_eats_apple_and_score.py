@@ -1,5 +1,3 @@
-# Write logic for snake eating apple and display score
-
 import pygame
 from pygame.locals import *
 import time
